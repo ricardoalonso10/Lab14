@@ -1,0 +1,153 @@
+D:\ProyectosVisual\CAP3\Lab14\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+D:\ProyectosVisual\CAP3\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\ApplicationInsights.config
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Lab14.dll.config
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Lab14.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Lab14.pdb
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Antlr3.Runtime.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\EntityFramework.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.Web.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.ApplicationInsights.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.Web.Infrastructure.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Newtonsoft.Json.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Helpers.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Mvc.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Optimization.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Razor.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.Deployment.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.Razor.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\WebGrease.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\EntityFramework.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Helpers.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Mvc.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Optimization.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.Razor.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.Deployment.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\System.Web.WebPages.Razor.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Antlr3.Runtime.pdb
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Newtonsoft.Json.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.ApplicationInsights.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\Microsoft.AI.Web.xml
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.Helpers.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.Mvc.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.Optimization.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.Razor.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.WebPages.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\obj\Debug\Lab14.dll
+D:\ProyectosVisual\CAP3\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\ApplicationInsights.config
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Lab14.dll.config
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Lab14.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Lab14.pdb
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Antlr3.Runtime.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\EntityFramework.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.Web.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Newtonsoft.Json.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Helpers.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Mvc.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Optimization.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Razor.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.Razor.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\WebGrease.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\EntityFramework.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Helpers.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Mvc.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Optimization.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.Razor.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\System.Web.WebPages.Razor.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Antlr3.Runtime.pdb
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Newtonsoft.Json.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\Microsoft.AI.Web.xml
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.Helpers.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.Mvc.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.Optimization.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.Razor.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.WebPages.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\obj\Debug\Lab14.dll
+C:\Users\RICARDO ALONSO\Documents\VI semestre\ubunu\Lab 14\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\ApplicationInsights.config
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Lab14.dll.config
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Lab14.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Lab14.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Antlr3.Runtime.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\EntityFramework.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.Web.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Newtonsoft.Json.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Helpers.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Mvc.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Optimization.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Razor.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.Razor.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\WebGrease.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\EntityFramework.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Helpers.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Mvc.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Optimization.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.Razor.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\System.Web.WebPages.Razor.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Antlr3.Runtime.pdb
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Newtonsoft.Json.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\Microsoft.AI.Web.xml
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.Helpers.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.Mvc.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.Optimization.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.Razor.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.WebPages.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\obj\Debug\Lab14.csprojResolveAssemblyReference.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\obj\Debug\Lab14.dll
+C:\Users\RICARDO ALONSO\Source\Repos\Lab14\Lab14\obj\Debug\Lab14.pdb
